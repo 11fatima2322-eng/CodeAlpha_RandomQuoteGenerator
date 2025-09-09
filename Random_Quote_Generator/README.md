@@ -1,4 +1,4 @@
-# CodeAlpha_FlashcardApp
+# CodeAlpha_Random_Quote_Generator_App
 
 # About
 Random quote generator app created during my CodeAlpha internship.
